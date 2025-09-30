@@ -2,6 +2,7 @@ package org.example.app.LessoN_1
 
 const val secondsInMinute: Int = 60
 const val secondsInHour: Int = 3600
+
 fun main() {
     // Константы
 
